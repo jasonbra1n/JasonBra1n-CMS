@@ -1,0 +1,13 @@
+# Local Configuration
+**/config.php
+
+# Server-specific configuration (e.g., from cPanel)
+/public/.htaccess
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+sync.ffs_db
+
+# Local Development
+/workspace/
